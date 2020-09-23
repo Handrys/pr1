@@ -1893,13 +1893,13 @@ footer {
 	height: 100%;
 	max-width: 2050px;
 	margin-left: 8%;
-	background: url("/img/body__cake.png") 0 0/65% auto no-repeat;
+	background: url("../img/body__cake.png") 0 0/65% auto no-repeat;
 	background-position: right;
 	z-index: 1;
 }
 @media (min-width: 1800px) {
 	.start__content-background {
-		background: url("/img/body__cake.png") 0 0/55% auto no-repeat;
+		background: url("../img/body__cake.png") 0 0/55% auto no-repeat;
 		margin-left: 50%;
 	}
 }
@@ -1910,28 +1910,28 @@ footer {
 }
 @media (max-width: 1380px) {
 	.start__content-background {
-		background: url("/img/body__cake.png") 0 0/70% auto no-repeat;
+		background: url("../img/body__cake.png") 0 0/70% auto no-repeat;
 		margin-left: 40%;
 		top: 20px;
 	}
 }
 @media (max-width: 780px) {
 	.start__content-background {
-		background: url("/img/body__cake.png") 0 0/80% auto no-repeat;
+		background: url("../img/body__cake.png") 0 0/80% auto no-repeat;
 		margin-left: 33%;
 		top: 20px;
 	}
 }
 @media (max-width: 520px) {
 	.start__content-background {
-		background: url("/img/body__cake-phone.png") 0 0/100% auto no-repeat;
+		background: url("../img/body__cake-phone.png") 0 0/100% auto no-repeat;
 		margin-top: -210px;
 		margin-left: 1%;
 	}
 }
 @media (max-width: 380px) {
 	.start__content-background {
-		background: url("/img/body__cake-phone.png") 0 0/100% auto no-repeat;
+		background: url("../img/body__cake-phone.png") 0 0/100% auto no-repeat;
 		margin-top: -200px;
 		margin-left: -3%;
 		width: 110%;
@@ -1939,7 +1939,7 @@ footer {
 }
 @media (max-width: 320px) {
 	.start__content-background {
-		background: url("/img/body__cake-phone.png") 0 0/388px 367px no-repeat;
+		background: url("../img/body__cake-phone.png") 0 0/388px 367px no-repeat;
 		margin-top: -210px;
 		margin-left: -10%;
 		width: 110%;
@@ -2222,11 +2222,11 @@ footer {
 .icons__start-imageicon1 {
 	width: 55px;
 	height: 55px;
-	background: url("/img/icons/body__icon1.png") 0 0/100% 100% no-repeat;
+	background: url("../img/icons/body__icon1.png") 0 0/100% 100% no-repeat;
 }
 @media (max-width: 924px) {
 	.icons__start-imageicon1 {
-		background: url("/img/icons/body__icon1-mob.png") 0 0/100% 100% no-repeat;
+		background: url("../img/icons/body__icon1-mob.png") 0 0/100% 100% no-repeat;
 		width: 33px;
 		height: 33px;
 	}
@@ -2234,11 +2234,11 @@ footer {
 .icons__start-imageicon2 {
 	width: 55px;
 	height: 55px;
-	background: url("/img/icons/body__icon2.png") 0 0/100% 100% no-repeat;
+	background: url("../img/icons/body__icon2.png") 0 0/100% 100% no-repeat;
 }
 @media (max-width: 924px) {
 	.icons__start-imageicon2 {
-		background: url("/img/icons/body__icon2-mob.png") 0 0/100% 100% no-repeat;
+		background: url("../img/icons/body__icon2-mob.png") 0 0/100% 100% no-repeat;
 		height: 33px;
 		width: 33px;
 	}
@@ -2471,7 +2471,7 @@ footer {
 		    flex-wrap: wrap;
 		height: 120px;
 		width: 280px;
-		background: url("/img/cake__classic-mob.jpg") 0 0/cover no-repeat;
+		background: url("../img/cake__classic-mob.jpg") 0 0/cover no-repeat;
 		margin-bottom: 10px;
 	}
 	.big__content-classic img {
@@ -2499,7 +2499,7 @@ footer {
 		    flex-wrap: wrap;
 		height: 120px;
 		width: 280px;
-		background: url("/img/cake__children-mob.jpg") 0 0/cover no-repeat;
+		background: url("../img/cake__children-mob.jpg") 0 0/cover no-repeat;
 	}
 	.big__content-children img {
 		max-width: 0%;
